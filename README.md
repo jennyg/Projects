@@ -1,4 +1,4 @@
-I'm going to learn LISP! Or maybe use this to expand my Python samples repertoire. 
+I'm going to learn Clojure! Or maybe use this to expand my Python samples repertoire. 
 
 ========
 
