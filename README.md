@@ -1,3 +1,7 @@
+I'm going to learn LISP! Or maybe use this to expand my Python samples repertoire. 
+
+========
+
 Mega Project List
 ========
 
